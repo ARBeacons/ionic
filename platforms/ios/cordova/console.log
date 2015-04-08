@@ -1,0 +1,40 @@
+2015-04-08 16:05:14.814 menu[51716:880091] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Sebastien/Library/Developer/CoreSimulator/Devices/64423FD0-1C71-4FB7-A5F4-668BF851C99F/data/Containers/Data/Application/CE637FFB-8BAE-4AEB-83C5-8C69882F3A03/Library/Cookies/Cookies.binarycookies
+2015-04-08 16:05:15.097 menu[51716:880091] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-08 16:05:15.098 menu[51716:880091] Multi-tasking -> Device: YES, App: YES
+2015-04-08 16:05:15.118 menu[51716:880091] Unlimited access to network resources
+2015-04-08 16:05:15.998 menu[51716:880091] Resetting plugins due to page load.
+2015-04-08 16:05:16.283 menu[51716:880091] Finished load of: file:///Users/Sebastien/Library/Developer/CoreSimulator/Devices/64423FD0-1C71-4FB7-A5F4-668BF851C99F/data/Containers/Bundle/Application/FD2B1471-3363-4ADA-89EC-8289184EB5EA/menu.app/www/index.html#/app/playlists
+2015-04-08 16:21:55.533 menu[52311:890943] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Sebastien/Library/Developer/CoreSimulator/Devices/64423FD0-1C71-4FB7-A5F4-668BF851C99F/data/Containers/Data/Application/09483C88-0ED6-4270-AAD8-1B451E9DF12B/Library/Cookies/Cookies.binarycookies
+2015-04-08 16:21:55.625 menu[52311:890943] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-08 16:21:55.626 menu[52311:890943] Multi-tasking -> Device: YES, App: YES
+2015-04-08 16:21:55.627 menu[52311:890943] Unlimited access to network resources
+2015-04-08 16:21:55.963 menu[52311:890943] Resetting plugins due to page load.
+2015-04-08 16:21:56.166 menu[52311:890943] Finished load of: file:///Users/Sebastien/Library/Developer/CoreSimulator/Devices/64423FD0-1C71-4FB7-A5F4-668BF851C99F/data/Containers/Bundle/Application/3E1DC037-58CC-445F-BCF6-49A3720F0883/menu.app/www/index.html#/app/playlists
+2015-04-08 16:24:12.909 menu[52660:892655] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Sebastien/Library/Developer/CoreSimulator/Devices/64423FD0-1C71-4FB7-A5F4-668BF851C99F/data/Containers/Data/Application/2E1CEC26-9A6A-4F12-AE17-36A3CBD8DBEA/Library/Cookies/Cookies.binarycookies
+2015-04-08 16:24:12.990 menu[52660:892655] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-08 16:24:12.990 menu[52660:892655] Multi-tasking -> Device: YES, App: YES
+2015-04-08 16:24:12.992 menu[52660:892655] Unlimited access to network resources
+2015-04-08 16:24:13.222 menu[52660:892655] Resetting plugins due to page load.
+2015-04-08 16:24:13.491 menu[52660:892655] Finished load of: file:///Users/Sebastien/Library/Developer/CoreSimulator/Devices/64423FD0-1C71-4FB7-A5F4-668BF851C99F/data/Containers/Bundle/Application/49F65229-5105-4F38-8A6A-9CE7A15E51A6/menu.app/www/index.html#/app/playlists
+2015-04-08 16:25:10.491 menu[52813:894423] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Sebastien/Library/Developer/CoreSimulator/Devices/64423FD0-1C71-4FB7-A5F4-668BF851C99F/data/Containers/Data/Application/0BDC1B53-C98A-4E9E-8E4B-4E86D6DC551E/Library/Cookies/Cookies.binarycookies
+2015-04-08 16:25:10.592 menu[52813:894423] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-08 16:25:10.592 menu[52813:894423] Multi-tasking -> Device: YES, App: YES
+2015-04-08 16:25:10.601 menu[52813:894423] Unlimited access to network resources
+2015-04-08 16:25:10.883 menu[52813:894423] Resetting plugins due to page load.
+2015-04-08 16:25:11.332 menu[52813:894423] Finished load of: http://192.168.50.103:8100/#/app/playlists
+2015-04-08 16:26:50.225 menu[52813:894423] Resetting plugins due to page load.
+2015-04-08 16:26:50.240 menu[52813:894423] Failed to load webpage with error: Could not connect to the server.
+2015-04-08 16:27:12.791 menu[52813:894423] Resetting plugins due to page load.
+2015-04-08 16:27:12.793 menu[52813:894423] Failed to load webpage with error: Could not connect to the server.
+2015-04-08 16:27:47.636 menu[52813:894423] Resetting plugins due to page load.
+2015-04-08 16:27:47.640 menu[52813:894423] Failed to load webpage with error: Could not connect to the server.
+2015-04-08 16:29:07.402 menu[52813:894423] Resetting plugins due to page load.
+2015-04-08 16:29:07.404 menu[52813:894423] Failed to load webpage with error: Could not connect to the server.
+2015-04-08 16:29:15.434 menu[52813:894423] Resetting plugins due to page load.
+2015-04-08 16:29:15.436 menu[52813:894423] Failed to load webpage with error: Could not connect to the server.
+2015-04-08 16:30:57.291 menu[52813:894423] Resetting plugins due to page load.
+2015-04-08 16:30:57.293 menu[52813:894423] Failed to load webpage with error: Could not connect to the server.
+2015-04-08 16:31:07.249 menu[52813:894423] Resetting plugins due to page load.
+2015-04-08 16:31:07.252 menu[52813:894423] Failed to load webpage with error: Could not connect to the server.
+2015-04-08 16:33:32.661 menu[52813:894423] Resetting plugins due to page load.
+2015-04-08 16:33:32.664 menu[52813:894423] Failed to load webpage with error: Could not connect to the server.
